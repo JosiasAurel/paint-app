@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  font-family: monospace;
+}
+
+input {
+  border: solid;
+  border-color: transparent;
+  border-radius: 5px;
+  background-color: rgb(125, 125, 250);
+  color: white;
+  margin: 1em;
+}
+
+input:focus {
+  outline: none;
+}
+
+a {
+  color: grey;
+  text-decoration: none;
+  border-bottom: 1px dotted blue;
+}
+
+h2 {
+  text-align: center;
+}
